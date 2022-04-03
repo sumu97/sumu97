@@ -1,4 +1,12 @@
-### Hi there 👋
+#sumu
+  
+Data Analyst jr.  
+
+Interest
+- Stock Market Prediction
+- NLP(Natural Language Processing)
+- Presentation & Conversation
+- Get a job . .
 
 <!--
 **sumu97/sumu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
