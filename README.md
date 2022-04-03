@@ -1,5 +1,3 @@
-## sumu
-  
 ### Data Analyst jr.  
 
 ### Interest
