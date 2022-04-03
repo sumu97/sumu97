@@ -1,8 +1,8 @@
-#sumu
+##sumu
   
-Data Analyst jr.  
+###Data Analyst jr.  
 
-Interest
+###Interest
 - Stock Market Prediction
 - NLP(Natural Language Processing)
 - Presentation & Conversatio
