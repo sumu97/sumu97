@@ -1,4 +1,4 @@
-### Data Analyst jr.
+### Data Analyst Jr.
 
 
 ### Interest
