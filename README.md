@@ -1,7 +1,8 @@
-### Data Analyst jr.  
+### Data Analyst jr.
+
 
 ### Interest
-- Data Analysis
+- MLOps
 - Stock Market Prediction
 - NLP(Natural Language Processing)
 - Presentation & Conversation
