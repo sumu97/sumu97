@@ -3,9 +3,10 @@
 ### Data Analyst jr.  
 
 ### Interest
+- Data Analysis
 - Stock Market Prediction
 - NLP(Natural Language Processing)
-- Presentation & Conversatio
+- Presentation & Conversation
 
 <!--
 **sumu97/sumu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
